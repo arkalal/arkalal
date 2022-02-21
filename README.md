@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arka Lal Chakravarty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate React frontend developer from India</h3>
 
 - 🔭 I’m currently working on [ReactJS Hotstar Clone with (NextJS)](https://github.com/arkalal/ReactJS-NEXT-Disney-Hotstar-Project)
 
