@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReactJS Hotstar Clone with (NextJS)](https://github.com/arkalal/ReactJS-NEXT-Disney-Hotstar-Project)
 
-- 🌱 I’m currently learning **NextJS(React Framework), Figma, Nodejs, Express and Solidity(For Etherium Blockchain Development)**
+- 🌱 I’m currently learning **NextJS(React Framework), Figma, Nodejs, Express and Solidity(For Ethereum Blockchain Development)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arkalal](https://github.com/arkalal)
 
