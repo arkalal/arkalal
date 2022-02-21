@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **arkalal.chakravarty@gmail.com**
 
+- Get My Resume at ➡️ (https://www.google.co.in/?client=safari&channel=iphone_bm)
+
 - ⚡ Fun fact **I think I am very**
 
 <h3 align="left">Connect with me:</h3>
