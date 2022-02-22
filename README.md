@@ -15,7 +15,7 @@
 
 - 📃 Get My Resume at ➡️ https://www.google.co.in/?client=safari&channel=iphone_bm
 
-- ⚡ Fun fact **I think I am very**
+- ⚡ Fun fact **I think I am very lazy and passionate coder at same time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
