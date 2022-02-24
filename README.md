@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arkalal.chakravarty@gmail.com**
 
-- 📃 Get My Resume at ➡️ https://drive.google.com/file/d/1fQ3LVjbBJf9ifxW0d5S_vVF-f4WTi4s6/view?usp=sharing
+- 📃 Get My Resume at ➡️ https://drive.google.com/file/d/1os3ZbNsIKs2pJQ6mg_7nGDazTqebS-yW/view?usp=sharing
 
 - ⚡ Fun fact **I think I am very lazy and passionate coder at the same time 🧑🏻‍💻😁🤟**
 
