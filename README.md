@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/](https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaSript and ReactJS**
+- 💬 Ask me about **HTML5, CSS3, JavaSript and ReactJS/NextJS - My Frontend Stack
 
 - 📫 How to reach me **arkalal.chakravarty@gmail.com**
 
