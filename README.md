@@ -9,7 +9,7 @@
 
 - 📝 I regularly write posts on [https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/](https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/)
 
-- 💬 Ask me about **HTML5, CSS3, Advanced JavaSript, ReactJS/NextJS, Research/Developemnt with Generative AI(OpenAI) and Building Software projects.
+- 💬 Ask me about **HTML5, CSS3, Advanced JavaSript, ReactJS/NextJS, Research/Development with Generative AI(OpenAI) and Building Software projects.
 
 - 📫 How to reach me **arkalal.chakravarty@gmail.com**
 
