@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Learning and researching about the world of Generative AI and building some cool stuff on the go!
 
-- 👨‍💻 Currently Building
+- 👨‍💻 Currently Building slaysheet.com as my open source side hustle Generative AI based software product using OpenAI Advnaced APIs. Researching and Building...Github Repo pinned in my profile.
 
 - 📝 I regularly write posts on [https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/](https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/)
 
