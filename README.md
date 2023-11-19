@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arka Lal Chakravarty</h1>
-<h3 align="center">A passionate React frontend developer from India</h3>
+<h3 align="center">A passionate Software Dev - React/NextJS and Generative AI Enthusiast(OpenAI)</h3>
 
-- 🔭 I’m currently working as a Software Engineer(Frontend) in Hyderabad
+- 🔭 I’m currently working as a Software Engineer(React) in Hyderabad
 
-- 🌱 I’m currently learning **NextJS(React Framework), Figma, Nodejs, Express and Solidity(For Ethereum Blockchain Development)**
+- 🌱 I’m currently Learning and researching about the world of Generative AI and building some cool stuff on the go!
 
-- 👨‍💻 All of my projects are available at [https://github.com/arkalal](https://github.com/arkalal)
+- 👨‍💻 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/](https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/)
+- 📝 I regularly write posts on [https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/](https://www.linkedin.com/in/arkalal-chakravarty-3787a0135/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaSript and ReactJS/NextJS - My Frontend Stack
+- 💬 Ask me about **HTML5, CSS3, Advanced JavaSript, ReactJS/NextJS, Research/Developemnt with Generative AI(OpenAI) and Building Software projects.
 
 - 📫 How to reach me **arkalal.chakravarty@gmail.com**
 
-- 📃 Get My Resume at ➡️ https://drive.google.com/file/d/1os3ZbNsIKs2pJQ6mg_7nGDazTqebS-yW/view?usp=sharing
+- 📃 Get My Resume at ➡️ https://drive.google.com/file/d/1ED_-8pXZJ1wxexvf7wHk1bKIfYg9GX4d/view?usp=share_link
 
 - ⚡ Fun fact **I think I am very lazy and passionate coder at the same time 🧑🏻‍💻😁🤟**
 
