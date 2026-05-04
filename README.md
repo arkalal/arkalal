@@ -1,91 +1,74 @@
-<h1 align="center">Hi 👋, I'm Arka Lal Chakravarty</h1>
-<h3 align="center">Full-Stack (Next.js/React, Node.js) & Generative AI Engineer 🚀</h3>
+# Hi 👋, I'm Arka Lal Chakravarty
 
-- 🔭 I’m currently working as an **AI Engineer at Epigroww Globak** and building **Generative AI-powered B2B enterprise software solutions**.  
-- 💼 Freelanced as a **Full-Stack Developer & AI Engineer**, helping clients turn ideas into AI-powered SaaS MVPs in ≤21 days.  
-- 🧠 Previously worked on **US State Govt healthcare projects** (ReactJS, CMS, AngularJS legacy systems) at **Infojini Inc.**, and later as **AI Engineer (Contract)** at **Helionix Tech**, building automation agents using Microsoft Autogen and FastAPI.  
-- 🌱 I’m constantly learning and experimenting with **LLMs (GPT, Claude, Llama)**, **RAG pipelines**, and **multi-agent systems** to build smarter, scalable AI tools.  
-- 💻 Currently building **[BrowzPot](https://browzpot.com/)** — an AI-powered Chrome Extension for productivity automation (summarization, note-taking, writing).  
-- 👨‍💻 My portfolio: [arkalalchakravarty.com](https://www.arkalalchakravarty.com/)  
-- 📝 I regularly share insights and content on [LinkedIn](https://www.linkedin.com/in/arkalal/) and [Twitter(X)](https://x.com/arka_codes)
-- 📬 Reach me at **arkalal.chakravarty@gmail.com**  
-- ⚡ Fun fact: I’m a *lazy yet passionate coder* who loves turning caffeine into code ☕🧑🏻‍💻  
+## Lead Full-Stack Engineer (Next.js / Node.js) & AI Specialist 🚀
 
----
+- 🔭 I'm currently the **Lead Full-Stack Engineer at Epigroww Global**, leading the development of **trydisco** — a full-stack **influencer marketing SaaS platform** built with **Next.js, Node.js, MongoDB, and Vercel**.
+- 💼 4+ years of experience shipping **scalable production-grade web applications** and integrating **LLM-powered AI features** (RAG, embeddings, agent workflows) into real B2B products.
+- 🎨 Strong frontend specialization — passionate about **fluid motion and immersive UX** using **Next.js 16, GSAP, and Framer Motion**, with pixel-perfect design execution.
+- 🧠 Previously built **agentic automation workflows** at **Helionix Tech**, **Generative AI–powered B2B SaaS** at **ScaleGenAI**, and **enterprise frontends for US Govt & healthcare clients** at **Infojini Inc.**
+- 💻 Currently building **[BrowzPot](https://github.com/arkalal/BrowzPot)** — an AI-powered Chrome Extension for productivity automation (summarization, note-taking, writing assistance).
+- 👨‍💻 My portfolio: **[arkalalchakravarty.com](https://www.arkalalchakravarty.com/)**
+- 📝 I share insights on **UI/UX Engineering**, **Motion Design**, and **AI Workflows** on [LinkedIn](https://www.linkedin.com/in/arkalal/) and [Twitter (X)](https://x.com/arka_codes)
+- 📬 Reach me at **arkalal.chakravarty@gmail.com**
+- 📅 Open to collaborate — [Book a 30-min call](https://calendly.com/arkalal-chakravarty/30min)
+- ⚡ Fun fact: I bridge the gap between **technical logic** and **premium aesthetics**, turning caffeine into high-performance code. ☕🧑🏻‍💻
 
-<h3 align="left">🧩 Tech Stack</h3>
+## 🧩 Tech Stack
 
-**Languages:** HTML5, CSS3, SCSS, JavaScript, TypeScript  
-**Frameworks:** ReactJS, NextJS (Full Stack), NodeJS, Python (FastAPI)  
-**Database:** MongoDB  
-**Generative AI:** OpenAI GPT-4/4o, Claude, OpenRouter, RAG, Vector DBs (Pinecone, Qdrant)  
-**Deployment:** Vercel  
-**Tools:** Postman, Git, Figma, Jest, Firebase  
+- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, **Advanced SCSS**
+- **Frontend & Design:** **Next.js 16 (App Router)**, React, **GSAP**, Framer Motion, Tailwind CSS, Figma
+- **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs
+- **Databases:** MongoDB, Supabase, PostgreSQL, **Vector DBs (Pinecone, Qdrant)**
+- **AI & Automation:** OpenAI API, Claude API, OpenRouter LLMs, LangChain, Vercel AI SDK, **RAG**, Embeddings, Prompt Engineering, **Agentic Workflows**
+- **Deployment & Tools:** Vercel, Git, Postman, Firebase, Jest
 
----
+## 💼 Professional Experience
 
-<h3 align="left">💼 Professional Experience</h3>
+**🚀 Lead Full-Stack Engineer — Epigroww Global (Sept 2025 – Present) · Delhi, India**
+- Leading end-to-end development of **trydisco**, a full-stack influencer marketing SaaS platform on **Next.js, Node.js, MongoDB, and Vercel**.
+- Built the **"Connect Instagram" onboarding flow** and a **DM automation builder** end-to-end with scalable backend architecture.
+- Integrated **2+ third-party APIs** (Phyllo, Instagram analytics via RapidAPI) to enrich creator data and improve discovery filtering accuracy.
+- Shipped responsive, high-performance React frontends with reusable UI patterns and scalable state handling.
 
-**🧠 AI Engineer — ScaleGenAI (Jul 2024 – Dec 2024)**  
-- Built and deployed **Generative AI–powered automation systems** for enterprise clients.  
-- Integrated **custom LLM pipelines** (OpenAI, Claude, Llama) with business logic.  
-- Led end-to-end development with **Next.js, React, Node.js, FastAPI**, and **MongoDB**.  
+**🤖 AI Full-Stack Engineer (Contract) — Helionix Tech (Feb 2025 – Jun 2025) · Remote**
+- Architected **multi-agent automation workflows** with tool-calling, orchestrating 5+ modular task flows for content generation and scheduling.
+- Built and shipped a **LinkedIn Chrome Extension SaaS** supporting automated publishing workflows with high-end UX and real-time performance.
 
-**💻 Software Developer — Infojini Inc. (Mar 2022 – Jul 2024)**  
-- Developed and maintained **US State Govt CMS platforms** (ReactJS, AngularJS legacy).  
-- Built full CMS web app for **Lee County, US** and contributed to **Talentdome** recruitment platform.  
-- Delivered healthcare projects for **Colorado University** and **MYTT (US veterans’ job portal)**.  
-- Awarded **22% salary hike** and performance bonuses for innovation and delivery.  
+**🧠 AI Full-Stack Engineer — ScaleGenAI (Jul 2024 – Dec 2024) · Remote**
+- Built and deployed **Generative AI–powered B2B SaaS applications** for enterprise clients using custom LLM pipelines.
+- Owned full-stack delivery across **Next.js, FastAPI, and MongoDB**.
 
-**🤖 AI Engineer (Contract) — Helionix Tech (Feb 2025 – Jun 2025)**  
-- Built **AI agent workflows** using Microsoft Autogen + Python FastAPI.  
-- Developed a **LinkedIn automation Chrome extension** enhancing engagement by 40%.  
+**💻 Frontend Engineer — Infojini Inc. (Mar 2022 – Jul 2024) · Hyderabad, India**
+- Developed **enterprise-grade frontend applications** deployed across 2+ production environments for **US Government and healthcare clients**.
+- Built scalable UI modules using **React, Next.js, and AngularJS**, specializing in responsive architectures and high-fidelity components.
+- Awarded **22% salary hike** for innovation in delivering healthcare and recruitment platforms.
 
-**🚀 Freelance Software Engineer — Self-employed (Jan 2025 – Present)**  
-- Developing **AI-driven SaaS MVPs** for global clients.  
-- Implemented **agentic automation systems**, improving workflow efficiency by 30%.  
+## 🌟 Featured Projects
 
----
+- **[Disco (trydisco)](https://www.arkalalchakravarty.com/)** — Full-scale influencer marketing platform with advanced creator discovery, filtering, and profile enrichment. *(Next.js 16, Node.js, MongoDB)*
+- **[NixBuilder](https://www.arkalalchakravarty.com/)** — AI App Builder that generates full SaaS MVPs from natural-language prompts with a clean "no-code" interface. *(Next.js 16, Node.js, Supabase, OpenRouter, Vercel AI SDK)*
+- **[AI RAG Copilot](https://www.arkalalchakravarty.com/)** — Production-grade AI chat agent with a RAG system that lets users chat with private knowledge bases and take actions via tool-calling. *(Next.js, LangChain, OpenAI, OpenRouter, Vector DB, Prisma)*
+- **[AtomX Website](https://www.arkalalchakravarty.com/)** — Brand-centric redesign featuring advanced **GSAP and Framer Motion** animations with strong SEO. *(Next.js, GSAP, Framer Motion, SCSS)*
+- **[BrowzPot](https://github.com/arkalal/BrowzPot)** — AI-powered Chrome Extension for daily productivity automation: email writing, web-page summaries, instant note-taking, and more. *(Next.js, NextAuth, MongoDB, Node.js, OpenAI)*
 
-<h3 align="left">🌟 Projects</h3>
+## 🏆 Achievements
 
-- **[BrowzPot](https://browzpot.com/)** — AI Chrome Extension for productivity automation (emails, summaries, notes).  
-- **[arkalalchakravarty.com](https://arkalalchakravarty.com/)** — My personal portfolio showcasing my journey, expertise, and projects.  
-- Built several **Generative AI SaaS** and **automation tools** integrating GPT, Claude, and RAG pipelines.
+- 💰 Earned a **22% salary increase** for exceptional performance and full-stack delivery innovation.
+- 🏅 Awarded a **performance bonus** for successfully shipping AI-integrated enterprise solutions.
+- 🚀 Shipped multiple **AI-powered MVPs** that drove business scalability and automation adoption.
+- ⚡ Known for delivering **production-ready SaaS MVPs in ≤21 days** with pixel-perfect design and scalable architecture.
 
----
+## 🎓 Education
 
-<h3 align="left">🏆 Achievements</h3>
+**B.A. in History** — North Bengal St. Xavier's College, Siliguri, India *(2018 – 2021)*
 
-- 💰 Received **22% salary increase** for exceptional performance and innovation.  
-- 🏅 Awarded **performance bonus** for successful project delivery and AI-based innovations.  
-- 🚀 Shipped multiple **AI MVPs** that led to business scalability and automation success.
+## 🤝 Connect with me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkalal/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arka_codes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arka_lal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arkalalchakravarty.com/)
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arkalal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkalal" height="30" width="40" /></a>
-<a href="https://twitter.com/arka_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arka_codes" height="30" width="40" /></a>
-<a href="https://instagram.com/arka_lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arka_lal" height="30" width="40" /></a>
-</p>
+## 🧰 Languages & Tools
 
----
-
-<h3 align="left">🧰 Languages & Tools</h3>
-<p align="left">
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkalal&show_icons=true&locale=en&layout=compact" alt="arkalal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkalal&show_icons=true&locale=en" alt="arkalal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkalal&" alt="arkalal" /></p>
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
