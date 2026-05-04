@@ -8,7 +8,7 @@
 - 🧠 Previously built **agentic automation workflows** at **Helionix Tech**, **Generative AI–powered B2B SaaS** at **ScaleGenAI**, and **enterprise frontends for US Govt & healthcare clients** at **Infojini Inc.**
 - 💻 Currently building **[BrowzPot](https://github.com/arkalal/BrowzPot)** — an AI-powered Chrome Extension for productivity automation (summarization, note-taking, writing assistance).
 - 👨‍💻 My portfolio: **[arkalalchakravarty.com](https://www.arkalalchakravarty.com/)**
-- 📝 I share insights on **UI/UX Engineering**, **Motion Design**, and **AI Workflows** on [LinkedIn](https://www.linkedin.com/in/arkalal/) and [Twitter (X)](https://x.com/arka_codes)
+- 📝 I share insights on **UI/UX and Full Stack Engineering**, **Motion Design**, and **AI Workflows** on [LinkedIn](https://www.linkedin.com/in/arkalal/) and [Twitter (X)](https://x.com/arka_codes)
 - 📬 Reach me at **arkalal.chakravarty@gmail.com**
 - 📅 Open to collaborate — [Book a 30-min call](https://calendly.com/arkalal-chakravarty/30min)
 - ⚡ Fun fact: I bridge the gap between **technical logic** and **premium aesthetics**, turning caffeine into high-performance code. ☕🧑🏻‍💻
@@ -16,15 +16,15 @@
 ## 🧩 Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, **Advanced SCSS**
-- **Frontend & Design:** **Next.js 16 (App Router)**, React, **GSAP**, Framer Motion, Tailwind CSS, Figma
+- **Frontend & Design:** **Next.js (App Router)**, React, **GSAP**, Framer Motion, Tailwind CSS
 - **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs
 - **Databases:** MongoDB, Supabase, PostgreSQL, **Vector DBs (Pinecone, Qdrant)**
 - **AI & Automation:** OpenAI API, Claude API, OpenRouter LLMs, LangChain, Vercel AI SDK, **RAG**, Embeddings, Prompt Engineering, **Agentic Workflows**
-- **Deployment & Tools:** Vercel, Git, Postman, Firebase, Jest
+- **Deployment & Tools:** Vercel, Git, Postman, AWS, Firebase
 
 ## 💼 Professional Experience
 
-**🚀 Lead Full-Stack Engineer — Epigroww Global (Sept 2025 – Present) · Delhi, India**
+**🚀 Lead Full-Stack Engineer — Epigroww Global (Sept 2025 – Present) · Remote**
 - Leading end-to-end development of **trydisco**, a full-stack influencer marketing SaaS platform on **Next.js, Node.js, MongoDB, and Vercel**.
 - Built the **"Connect Instagram" onboarding flow** and a **DM automation builder** end-to-end with scalable backend architecture.
 - Integrated **2+ third-party APIs** (Phyllo, Instagram analytics via RapidAPI) to enrich creator data and improve discovery filtering accuracy.
