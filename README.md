@@ -9,7 +9,7 @@
 - 💻 Currently building **[BrowzPot](https://github.com/arkalal/BrowzPot)** — an AI-powered Chrome Extension for productivity automation (summarization, note-taking, writing assistance).
 - 👨‍💻 My portfolio: **[arkalalchakravarty.com](https://www.arkalalchakravarty.com/)**
 - 📝 I share insights on **UI/UX and Full Stack Engineering**, **Motion Design**, and **AI Workflows** on [LinkedIn](https://www.linkedin.com/in/arkalal/) and [Twitter (X)](https://x.com/arka_codes)
-- 📬 Reach me at **arkalal.chakravarty@gmail.com**
+- 📬 Reach me at **admin@arkalalchakravarty.com**
 - 📅 Open to collaborate — [Book a 30-min call](https://calendly.com/arkalal-chakravarty/30min)
 - ⚡ Fun fact: I bridge the gap between **technical logic** and **premium aesthetics**, turning caffeine into high-performance code. ☕🧑🏻‍💻
 
